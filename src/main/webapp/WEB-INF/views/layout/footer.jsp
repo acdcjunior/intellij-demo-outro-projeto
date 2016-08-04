@@ -1,1 +1,0 @@
-<div class="container contain">FOOTER</div>
