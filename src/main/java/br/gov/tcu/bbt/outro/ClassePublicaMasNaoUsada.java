@@ -5,4 +5,5 @@ package br.gov.tcu.bbt.outro;
  * \@SuppressWarnings pode ser usado.
  */
 public class ClassePublicaMasNaoUsada {
+
 }
