@@ -9,9 +9,9 @@ import br.gov.tcu.bbt.outro.Exemplo;
  * - Dah warning na variavel inutil
  * - Alt+enter junta tudo
  */
-public class Variaveis {
+public class SimplificarVariaveisRedundantes {
 
-    public String recuperarTipoDestino(Exemplo exemplo) {
+    public String fazAlgumaCoisaComExemplo(Exemplo exemplo) {
         String paginarDestino = null;
         paginarDestino = fazOutraCoisaComExemplo(exemplo);
         return paginarDestino;

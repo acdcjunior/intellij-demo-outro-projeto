@@ -1,6 +1,6 @@
 package br.gov.tcu.bbt.outro;
 
-import br.gov.tcu.bbt.outro.dica102.Variaveis;
+import br.gov.tcu.bbt.outro.dica102.SimplificarVariaveisRedundantes;
 
 /**
  * Apenas para tirar warning de unused de varias classes.
@@ -8,7 +8,7 @@ import br.gov.tcu.bbt.outro.dica102.Variaveis;
 public class UsuarioGlobal {
 
     public static void main(String[] args) {
-        new Variaveis().recuperarTipoDestino(null);
+        new SimplificarVariaveisRedundantes().fazAlgumaCoisaComExemplo(null);
     }
 
 }
