@@ -4,6 +4,11 @@ import java.util.List;
 
 import static java.util.Arrays.asList;
 
+/**
+ * CTRL+SHIFT+ALT+Setas
+ *
+ * Depois ALT+Enter para consolidar a alteracao da assinatura (somente diretamente nos métodos, não nos usos)
+ */
 @SuppressWarnings("ALL")
 public class AlterandoListas {
 
